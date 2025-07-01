@@ -50,22 +50,6 @@ All within a secure and compliant cloud environment.
 
 ---
 
-## 📝 IAM Policy Sample (Read-only S3)
-
-```json
-{
-  "Version": "2012-10-17",
-  "Statement": [
-    {
-      "Effect": "Allow",
-      "Action": ["s3:GetObject"],
-      "Resource": "arn:aws:s3:::secure-data-bucket/*"
-    }
-  ]
-}
-
-
----
 
 ## 📦 Deliverables
 
