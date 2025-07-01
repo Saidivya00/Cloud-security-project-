@@ -66,14 +66,14 @@ Final Report	✅ Included
 
 ---
 
-##📄 Report Download
+## 📄 Report Download
 
 👉 Download Cloud Security Report (PDF)
 
 
 ---
 
-##✅ Outcome
+## ✅ Outcome
 
 Enforced principle of least privilege
 
