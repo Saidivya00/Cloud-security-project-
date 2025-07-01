@@ -83,4 +83,3 @@ Access to sensitive resources is strictly controlled
 
 Logs and alerts are configured for security auditing
 
-
